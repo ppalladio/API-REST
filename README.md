@@ -1,9 +1,7 @@
 # API-REST
 MongoDB+Express
 
-<h1>
-initial settings and package installation
-</h1>
+<h1  initial settings and package installation>
 ```bash
 npm init -y
 npm i -d ts-node
