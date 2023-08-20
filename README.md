@@ -1,10 +1,16 @@
 # API-REST
 MongoDB+Express
+
+<h1?
+initial settings and package installation
+</h1>
 ```bash
 npm init -y
 npm i -d ts-node
 npm i -d typescript
 ... nodemon
+npm i cors express ...
+npm i @types/cors @types/express ... // types
 ```
 
 tsconfig:
